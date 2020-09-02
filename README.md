@@ -21,4 +21,5 @@
 #### 9. [De1CTF 2020](https://github.com/jiaweihawk/pwn/tree/master/De1CTF%202020)
 ###### (1).	[De1CTF 2020-stl_container](https://github.com/jiaweihawk/pwn/tree/master/De1CTF%202020/stl_container)	(offset没有解决，仅仅通过gdb试出来)
 #### 10. [whctf2017 easypwn](https://github.com/jiaweihawk/pwn/tree/master/whctf2017%20easypwn) (wp:https://blog.csdn.net/seaaseesa/article/details/103089382)
-
+#### 11. [DASCTF 2020 8](https://github.com/jiaweihawk/pwn/tree/master/DASCTF%202020%208)
+###### (1).	[DASCTF 2020 8-magic_number](https://github.com/jiaweihawk/pwn/tree/master/DASCTF%202020%208/magic_number)
